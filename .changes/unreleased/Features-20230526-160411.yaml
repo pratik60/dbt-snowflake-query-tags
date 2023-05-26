@@ -1,0 +1,6 @@
+kind: Features
+body: Add support for node meta configuration
+time: 2023-05-26T16:04:11.620017+01:00
+custom:
+  Author: pratik60
+  PR: "109"
